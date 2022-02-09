@@ -4,4 +4,4 @@ A Java program which plays a modified one-way game of battleship. The algorithm 
 
 # Performance
 ## Average shots required to win a game: ~60.5
-## Number of game: 10,000
+## Number of games: 10,000
